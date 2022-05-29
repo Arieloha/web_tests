@@ -1,1 +1,1 @@
-# Ariel's web_tests repository for exercises
+# web_tests
