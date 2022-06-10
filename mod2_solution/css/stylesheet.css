@@ -1,9 +1,10 @@
 /* Base Style */
 * {
 	box-sizing: border-box;
-	font-family: Monaco;
+	font-family: Papyrus;
 	background-color: #89AEBC;
 }
+
 h1 {
 	margin-top: 75px; 
 	text-align: center;	
@@ -12,21 +13,29 @@ h1 {
 }
 
 p {
-	border:  1px solid black;
 	background-color: #E2E8E6;
+	font-size: 10;
 	width: 90%;
-	height: 150px;
-	margin: auto;	
+	height: 320px;
+	margin-left: auto;	
+	margin-right: auto;
+	padding: 45px;
 	color: #352709;
 }
 
 #p1 {
 	background-color: #E8E2E4;
+	border: 1px dashed rosybrown;
+	padding: 5px;
 	position: absolute;
 	width: 30%;
-	height: 15%;
+	height: 10%;
 	top: 0;
 	right: 5%;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 12;
 }
 
 /* Simple Responsive framework */
