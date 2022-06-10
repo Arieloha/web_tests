@@ -18,7 +18,7 @@ p {
 	border: 1px solid black;
 	font-size: 10;
 	width: 90%;
-	height: 320px;
+	height: 90%;
 	margin-left: auto;	
 	margin-right: auto;
 	padding: 45px;
@@ -32,7 +32,7 @@ p {
 	border-left-style: dashed;
 	border-bottom-style: dashed;*/
 	border: 1px solid black;
-	padding: 5px;
+	padding: 1%;
 	position: absolute;
 	width: 30%;
 	height: 10%;
@@ -51,7 +51,7 @@ p {
 	border-left-style: dashed;
 	border-bottom-style: dashed;*/
 	border: 1px solid black;
-	padding: 5px;
+	padding: 1%;
 	position: absolute;
 	width: 30%;
 	height: 10%;
@@ -70,7 +70,7 @@ p {
 	border-left-style: dashed;
 	border-bottom-style: dashed; */
 	border: 1px solid black;
-	padding: 5px;
+	padding: 1%;
 	position: absolute;
 	width: 30%;
 	height: 10%;
