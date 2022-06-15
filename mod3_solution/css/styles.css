@@ -3,7 +3,7 @@ body {
 	font-family: 'Kalam', cursive;
 	color: #334A3B;
 	font-size: 16px;
-	background-color: #D4E2D9;
+	background-color: #D5E4DA;
 }
 
 /* HEADER */
@@ -23,7 +23,7 @@ body {
 	font-size: 1.5em;
 	color: #334A3B;
 	font-weight: bold;
-	text-shadow: 1px 1px 1px #2F4436;
+	text-shadow: 1px 1px 1px #26342C;
 	margin-top: 0;
 	margin-bottom: 0;
 	line-height: .75;
@@ -59,3 +59,53 @@ body {
 	margin-bottom: 10px;
 }
 
+#menu {
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+#chicken span {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+#beef span {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+#sushi span {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+#chicken {
+	margin-left: 0;
+	margin-top: 10px;
+	padding: 40px;
+	margin-bottom: 10px;
+	background: #EAF1EC;
+}
+
+#beef {
+	margin-left: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 40px;
+	background: #EAF1EC;
+}
+
+#sushi {
+	margin-left: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 40px;
+	background: #EAF1EC;
+}
+
+#main-content p {
+	line-height: 150%;
+}
