@@ -64,20 +64,7 @@ body {
 	font-size: 2.5em;
 }
 
-#chicken span {
-	text-align: center;
-	font-weight: bold;
-	font-size: 2em;
-}
-
-#beef span {
-	text-align: center;
-	font-weight: bold;
-	font-size: 2em;
-}
-
-#sushi span {
-	text-align: center;
+#main-content span {
 	font-weight: bold;
 	font-size: 2em;
 }
