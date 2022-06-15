@@ -1,0 +1,33 @@
+/* Base Style */
+body {
+	font-family: 'Kalam', cursive;
+	font-size: 16px;
+	background-color: #D4E2D9;
+}
+
+/* HEADER */
+#header-nav {
+	background-color: #A2C0AD;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+/* Restaurant Name */
+.navbar-brand h1 {
+	font-family: 'Kalam', cursive;
+	font-size: 1.5em;
+	color: #334A3B;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #2F4436;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
