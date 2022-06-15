@@ -1,6 +1,7 @@
 /* Base Style */
 body {
 	font-family: 'Kalam', cursive;
+	color: #334A3B;
 	font-size: 16px;
 	background-color: #D4E2D9;
 }
@@ -9,8 +10,7 @@ body {
 #header-nav {
 	background-color: #A2C0AD;
 	border-radius: 0;
-	border: 0;
-	height: 80px;
+	border: 0;	
 }
 
 .navbar-brand {
@@ -20,7 +20,7 @@ body {
 /* Restaurant Name */
 .navbar-brand h1 {
 	font-family: 'Kalam', cursive;
-	font-size: 2em;
+	font-size: 1.5em;
 	color: #334A3B;
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #2F4436;
@@ -32,3 +32,30 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
 }
+
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+	background: #E5EDE8;
+}
+
+#nav-list a {
+	color: #334A3B;
+	font-weight: bold;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #F8F5F7;
+}
+
+#nav-list a span {
+	font-size: 30px;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -40px;
+	margin-bottom: 10px;
+}
+
